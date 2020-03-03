@@ -3,5 +3,5 @@ Learning Journal Unit 4
 
 Please do not share this repository.
 
-Thanks
+Thanks  
 Dr. Itauma Itauma
